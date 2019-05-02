@@ -4,9 +4,8 @@ An example of obfuscating Angular components to make code as difficult to read a
 
 Start with [angular-7-webpack-4-boilerplate](https://github.com/samteb/angular-7-webpack-4-boilerplate)
 
-#### More on options :
 
-[JavaScript Obfuscator Tool](https://obfuscator.io/)
+#### If you'd like to explore other options, visit [JavaScript Obfuscator Tool](https://obfuscator.io/)
 
 #### Related Posts :
 
@@ -14,4 +13,5 @@ Start with [angular-7-webpack-4-boilerplate](https://github.com/samteb/angular-7
 - [webpack obfuscator](https://github.com/javascript-obfuscator/webpack-obfuscator)
 - [100% correct way to split your chunks with Webpack](https://hackernoon.com/the-100-correct-way-to-split-your-chunks-with-webpack-f8a9df5b7758)
 - [Misconceptions in Client-Side Security](https://medium.com/@pat_migliaccio/misconceptions-in-client-side-security-reverse-engineering-obfuscation-disguised-endpoints-dddfdafbc60e)
+- [JS Deobfuscation](http://jsnice.org/)
 
